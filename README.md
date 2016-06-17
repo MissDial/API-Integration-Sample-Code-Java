@@ -1,4 +1,4 @@
-## API-Integration-Sample-Code-Java
+## MissDial API Integration Sample Code Java
 
 Create a new database or use existing database.
 Import the database script located at schema/script.sql
