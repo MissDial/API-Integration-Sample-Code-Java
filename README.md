@@ -3,7 +3,7 @@
 Create a new database or use existing database.
 Import the database script located at schema/script.sql
 
-In simple-demo.php change servername, username and password from own database
+In WebContent/NewFile.jsp change servername, username and password from own database
 
 Please note these files should be uploaded on some publicly accessible server (not on localhost)
 
